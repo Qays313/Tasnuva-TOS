@@ -1,21 +1,32 @@
-MIT License
+Tasnuva TOS (Othoy Edition) License
+Copyright (C) 2025 Qays-Al-Haris-Al-Harith-Al-Julaybib-Awf
 
-Copyright (c) 2025 QaysAlHarisAlHarithAlJulaybibAwf
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at: http://www.apache.org/licenses/LICENSE-2.0
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense,and to 
-permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+ADDITIONAL TERMS — BRANDING, ATTRIBUTION & REVENUE SHARE
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. The following are protected branding assets of this project:
+   - The project names "Tasnuva", "Tasnuva TOS", and "Tasnuva TOS (Othoy Edition)"
+   - The ASCII art logo:
+
+ ########  #####  ####### ###    ## ##    ## ##    ##  #####
+    ##    ##   ## ##      ####   ## ##    ## ##    ## ##   ##
+    ##    ####### ####### ## ##  ## ##    ## ##    ## #######
+    ##    ##   ##      ## ##  ## ## ##    ##  ##  ##  ##   ##
+    ##    ##   ## ####### ##   ####  ######    ####   ##   ##
+
+   - Any graphical, stylized, or textual variant thereof.
+
+2. The name "Tasnuva" must remain in the software’s visible startup output (boot banner, splash screen, or equivalent) in any redistribution or derivative work, unless ALL protected branding assets are removed completely. If branding is removed entirely, you must not use the name "Tasnuva" anywhere in the derivative work.
+
+3. If redistributed with branding intact, the following must also appear clearly at startup:
+   Created by Qays-Al-Haris-Al-Harith-Al-Julaybib-Awf
+
+4. Attribution Requirement: Any derivative work or redistributed version, whether modified or unmodified, must display at least 50% creator credit to the original author in visible branding.
+
+5. Revenue Share Requirement: Any commercial use, sale, subscription, or monetization of this software or its derivative works must provide the original author with 30% of gross revenue earned from the product.
+
+6. You may privately modify and use the software without attribution if it is not redistributed or used commercially.
+
